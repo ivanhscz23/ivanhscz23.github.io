@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Te Amo Mi Amor 💖</title>
+  <title>Te Amo Mi Amor 💖
   <style>
     body {
       background: #ffe6f0;
@@ -96,6 +96,4 @@
   <footer>
     Hecho con mucho amor solo para ti, TE AMO NUNCA LO OLVIDES MI NEGRITA. ❤️
   </footer>
-
-</body>
-</html>
+  
