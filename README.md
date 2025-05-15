@@ -57,7 +57,7 @@
 </head>
 <body>
 
-  <header>💖 PARA MI NEGRITA HERMOSA 💖</header>
+  <header>💖 PARA MI NEGRITA HERMOSA 💖
 
   <p>Mi amor, eres la razón por la que sonrío todos los días. Cada momento contigo es un recuerdo que guardo con todo mi corazón. Te amo más de lo que las palabras pueden explicar.</p>
 ❤️ Para el amor de mi vida ❤️
