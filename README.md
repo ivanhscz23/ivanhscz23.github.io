@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Te Amo Mi Amor 💖
+  <title>Te Amo Mi Amor 💖</title>
   <style>
     body {
       background: #ffe6f0;
@@ -57,7 +57,7 @@
 </head>
 <body>
 
-  <header>💖 PARA MI NEGRITA HERMOSA 💖
+  <header>💖 PARA MI NEGRITA HERMOSA 💖</header>
 
   <p>Mi amor, eres la razón por la que sonrío todos los días. Cada momento contigo es un recuerdo que guardo con todo mi corazón. Te amo más de lo que las palabras pueden explicar.</p>
 ❤️ Para el amor de mi vida ❤️
@@ -96,4 +96,6 @@
   <footer>
     Hecho con mucho amor solo para ti, TE AMO NUNCA LO OLVIDES MI NEGRITA. ❤️
   </footer>
-  
+
+</body>
+</html>
